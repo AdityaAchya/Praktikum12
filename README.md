@@ -87,3 +87,6 @@ maka outputnya akan menjadi :
 ![Latihan](https://user-images.githubusercontent.com/123864099/218290938-dbd8999b-b211-4cf5-acab-979c597a2a2c.PNG)
 
 
+
+## TERIMA KASIH
+### ADITYA ACHYA ANANTA NUR - 312210714 - TI.22.C. - TEKNIK INFORMATIKA - UNIVERSITAS PELITA BANGSA
